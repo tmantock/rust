@@ -29,6 +29,11 @@ fn plus_one(i: i32) -> i32 {
     i + 1
 }
 
+fn look_at_tuples() {
+    //let x = (1, "hello");
+    let x: (i32, &str) = (1, "hello");
+}
+
 // fn diverges() -> ! {
 //     panic!("This function never returns!");
 // }
