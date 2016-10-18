@@ -32,6 +32,11 @@ fn plus_one(i: i32) -> i32 {
 fn look_at_tuples() {
     //let x = (1, "hello");
     let x: (i32, &str) = (1, "hello");
+
+    let mut z = (1, 2); // x: (i32, i32)
+    let y = (2, 3); // y: (i32, i32)
+
+    z = y;
 }
 
 // fn diverges() -> ! {
