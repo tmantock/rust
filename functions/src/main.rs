@@ -37,6 +37,10 @@ fn look_at_tuples() {
     let y = (2, 3); // y: (i32, i32)
 
     z = y;
+
+    let (a, b, c) = (1, 2, 3);
+
+    println!("x is {}", a);
 }
 
 // fn diverges() -> ! {
