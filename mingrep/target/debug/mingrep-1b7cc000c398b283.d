@@ -1,0 +1,1 @@
+/mnt/c/Users/Atlas/Documents/Development/rust/mingrep/target/debug/mingrep-1b7cc000c398b283: /mnt/c/Users/Atlas/Documents/Development/rust/mingrep/src/lib.rs /mnt/c/Users/Atlas/Documents/Development/rust/mingrep/src/main.rs
